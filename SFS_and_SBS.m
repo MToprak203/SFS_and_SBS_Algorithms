@@ -1,7 +1,4 @@
-%% Mustafa Toprak - 47485536686
-%% Özkan Bulut - 12382196158
-
-load BIM488_HW3.mat
+load data.mat
 
 C1_train = classes(1:80,:);
 C1_test = classes(81:160,:);
